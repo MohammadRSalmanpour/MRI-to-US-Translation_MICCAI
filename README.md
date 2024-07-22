@@ -9,8 +9,14 @@ Radiomics Feature Names and Descriptions.xlsx includes Radiomics feature names a
 High resolution of Figure ad Figures are within "High Resolution Figures and Tables.pdf" 
 Radiomic Analysis results are listed in "Radiomic Analysis_Spearman Correlation.xlsx"
 
+Training parameters. D: Discriminator, G: Generator, MSE: Mean Squared Error, MAE: Mean Absolute Error, LSE: Least Squared Error.
+
+![Presentatio - Copy - Copy - Copy11](https://github.com/user-attachments/assets/5f63220f-5e19-4676-bf33-d5e8086d0020)
+
 A distribution of four quantitative evaluation metrics: MAE, MSE, SSIM, and PSNR for 2D-Pix2Pix, 2D-CycleGAN, 3D-CycleGAN, 3D-AutoEncoder, and 3D-UNET in synthesizing MRI images from US images.
+
 ![SSIM](https://github.com/user-attachments/assets/3d772bb0-7d4b-4bbd-9373-a62035b07c69)
+
 ![PSNR](https://github.com/user-attachments/assets/e0da95f6-824f-4c21-8650-15ca059b0211)
 
 ![MAE](https://github.com/user-attachments/assets/8cbfda84-cec3-4fd3-bc61-5d800582ad85)
@@ -18,8 +24,10 @@ A distribution of four quantitative evaluation metrics: MAE, MSE, SSIM, and PSNR
 ![MSE](https://github.com/user-attachments/assets/b712c614-c828-49f1-aca6-4fdb69f632fd)
 
 
+Four examples of synthetic MRI images provided by 2D-Pix2Pix. Rows show Ultrasound, Original MRI, Synthetic MRI, difference between original and synthetic MRI images. Col-umns show different patients.
 
 ![Presentatio - Copy - Copy - Copy](https://github.com/user-attachments/assets/76f8403a-4bcb-4c0e-9346-509c10cc0d26)
+
 
 AUTHOR(S):
 
