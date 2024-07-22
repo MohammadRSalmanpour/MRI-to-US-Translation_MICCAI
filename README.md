@@ -5,7 +5,7 @@ Paper Title: "Do High-Performance Image-to-Image Translation Networks Enable the
 
 Image-to-Image Translation Networks folder includes 5 image-to-image translation networks used in above paper.
 
-Radiomics Feature Names and Descriptions.xlsx includes Radiomics feature names and descriptions.
+"Radiomics Feature Names and Descriptions.xlsx" includes Radiomics feature names and descriptions.
 High resolution of Figure ad Figures are within "High Resolution Figures and Tables.pdf" 
 Radiomic Analysis results are listed in "Radiomic Analysis_Spearman Correlation.xlsx"
 
