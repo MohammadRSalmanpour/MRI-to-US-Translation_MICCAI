@@ -11,7 +11,8 @@ Radiomic Analysis results are listed in "Radiomic Analysis_Spearman Correlation.
 
 Training parameters. D: Discriminator, G: Generator, MSE: Mean Squared Error, MAE: Mean Absolute Error, LSE: Least Squared Error.
 
-![Presentatio - Copy - Copy - Copy11](https://github.com/user-attachments/assets/5f63220f-5e19-4676-bf33-d5e8086d0020)
+![Presentatio - Copy - Copy - Copy11](https://github.com/user-attachments/assets/eb1bbc3a-5695-437c-86c5-56b7fae9da17)
+
 
 A distribution of four quantitative evaluation metrics: MAE, MSE, SSIM, and PSNR for 2D-Pix2Pix, 2D-CycleGAN, 3D-CycleGAN, 3D-AutoEncoder, and 3D-UNET in synthesizing MRI images from US images.
 
