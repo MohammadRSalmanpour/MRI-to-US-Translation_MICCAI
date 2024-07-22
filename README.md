@@ -13,9 +13,13 @@ Radiomic Analysis results are listed in "Radiomic Analysis_Spearman Correlation.
 
 
 
+![SSIM](https://github.com/user-attachments/assets/3d772bb0-7d4b-4bbd-9373-a62035b07c69)
+![PSNR](https://github.com/user-attachments/assets/e0da95f6-824f-4c21-8650-15ca059b0211)
 
 
-![Picture1](https://github.com/user-attachments/assets/1005385e-929b-4ffd-8c5d-2741ecd1b643)
+![MAE](https://github.com/user-attachments/assets/8cbfda84-cec3-4fd3-bc61-5d800582ad85)
+
+![MSE](https://github.com/user-attachments/assets/b712c614-c828-49f1-aca6-4fdb69f632fd)
 
 AUTHOR(S):
 
