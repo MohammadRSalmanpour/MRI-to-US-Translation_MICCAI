@@ -2,6 +2,7 @@
 Publication for 2024 MICCAI Ultrasound-SIG, ASMUS Workshop
 
 Paper Title: "Do High-Performance Image-to-Image Translation Networks Enable the Discovery of Radiomic Features? Application to MRI Synthesis from Ultrasound in Prostate Cancer"
+ArXiv paper: https://arxiv.org/abs/2403.18651
 
 Image-to-Image Translation Networks folder includes 5 image-to-image translation networks used in above paper.
 
