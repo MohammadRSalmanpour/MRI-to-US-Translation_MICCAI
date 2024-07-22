@@ -27,6 +27,9 @@ A distribution of four quantitative evaluation metrics: MAE, MSE, SSIM, and PSNR
 Four examples of synthetic MRI images provided by 2D-Pix2Pix. Rows show Ultrasound, Original MRI, Synthetic MRI, difference between original and synthetic MRI images. Col-umns show different patients.
 ![Presentatio - Copy - Copy - Copy](https://github.com/user-attachments/assets/76f8403a-4bcb-4c0e-9346-509c10cc0d26)
 
+Qualitative analysis of synthetic MRI by 5 medical doctors (D).
+![444441](https://github.com/user-attachments/assets/10d4672e-da38-4ecf-9027-98558bbff90f)
+
 
 AUTHOR(S):
 
